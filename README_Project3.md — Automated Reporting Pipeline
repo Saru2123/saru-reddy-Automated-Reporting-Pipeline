@@ -1,0 +1,35 @@
+Project Summary
+Created an end-to-end automated ETL pipeline for refreshing daily Power BI dashboards using Azure Data Factory and Python. Reduced manual reporting effort and ensured real-time insights availability.
+
+Key Objectives
+
+Automate data extraction and transformation.
+
+Load cleaned data into Azure SQL Database for Power BI consumption.
+
+Schedule and monitor refresh workflows.
+
+Tools & Technologies
+Azure Data Factory, Python, SQL, Power BI, GitHub Actions
+
+Approach
+
+Built ETL pipeline using Azure Data Factory to fetch data from multiple APIs and databases.
+
+Used Python scripts for data transformation and validation.
+
+Configured GitHub Actions to trigger pipeline runs.
+
+Connected Power BI dashboards to Azure SQL and automated daily refresh.
+
+Impact
+
+Reduced manual report preparation time by 80%.
+
+Improved data availability for management decision-making.
+
+Links
+
+GitHub Repo: saru-reddy/Automated-Reporting-Pipeline
+
+Power BI Dashboard: (Add link when published)
